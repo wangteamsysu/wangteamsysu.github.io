@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  Team Building:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Team Building
   - scope:
       path: ""
-      type: teaching
+      type: Team Building
     values:
       layout: single
       author_profile: true
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  - #scope:
+      #path: ""
+      #type: portfolio
+    #values:
+      #layout: single
+      #author_profile: true
+      #share: true
+      #comment: true
   # _talks
   - scope:
       path: ""
