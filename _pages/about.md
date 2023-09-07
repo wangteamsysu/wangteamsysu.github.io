@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+​       ![image-20230907190926383](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/image-20230907190926383.png)
+
 ​       [中山大学附属口腔医院](https://www.zdkqyy.com/)（Hospital of Stomatology, Sun Yat-sen University）口腔颌面外科王成主任医师团队，长期从事口腔颌面头颈肿瘤临床、基础及应用基础研究。擅长口腔颌面部肿瘤、口腔癌、颌骨肿瘤、唾液腺肿瘤的诊治及显微外科和颌面部组织缺损的数字化修复重建。团队依托广东省口腔医学重点实验室（Guangdong Provincial Key Laboratory of Stomatology），主要研究方向为头颈肿瘤分子发病机制和精准诊疗。
 
-![image-20230907190926383](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/image-20230907190926383.png)
+
 
 PI简介
 ======
 
 **教育经历**
 
-2000/9 - 2005/6，兰州大学，口腔医学院，学士
+2000/9 - 2005/6，<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/landa2.jpg" alt="landa2" style="zoom:25%;" />兰州大学 ，口腔医学院，学士
 
-2005/9 - 2008/6，中山大学，光华口腔医学院，硕士，导师：曾融生 教授
+2005/9 - 2008/6，<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AD%E5%A4%A72.jpg" alt="中大2" style="zoom:25%;" />中山大学，光华口腔医学院，硕士，导师：曾融生 教授
 
-2008/9 - 2011/6，中山大学，光华口腔医学院，博士，导师：黄洪章 教授
+2008/9 - 2011/6，<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%AD%E5%A4%A72.jpg" alt="中大2" style="zoom:25%;" />中山大学，光华口腔医学院，博士，导师：黄洪章 教授
 
 **工作经历**
 
@@ -45,8 +47,11 @@ PI简介
 
 广东省高等学校“千百十人才培养工程”第八批校级培养对象（2014）
 
+
+
 科研项目
 ======
+
 1. 国家自然科学基金专项项目，82141112，基于单细胞测序和空间转录组学解析成釉细胞瘤复发的关键调控机制，2022.01-2024.12，60万元，在研，主持
 1. 国家自然科学基金面上项目，82073265，超级增强子驱动“CYTOR-FOSL1正反馈环路”促进口腔鳞癌Tumor budding转移的研究，2021.01-2024.12，55万元，在研，主持
 
