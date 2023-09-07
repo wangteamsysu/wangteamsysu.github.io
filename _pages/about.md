@@ -10,7 +10,7 @@ redirect_from:
 
 ​       [中山大学附属口腔医院](https://www.zdkqyy.com/)（Hospital of Stomatology, Sun Yat-sen University）口腔颌面外科王成主任医师团队，长期从事口腔颌面头颈肿瘤临床、基础及应用基础研究。擅长口腔颌面部肿瘤、口腔癌、颌骨肿瘤、唾液腺肿瘤的诊治及显微外科和颌面部组织缺损的数字化修复重建。团队依托广东省口腔医学重点实验室（Guangdong Provincial Key Laboratory of Stomatology），主要研究方向为头颈肿瘤分子发病机制和精准诊疗。
 
-![image-20230907190926383](https://github.com/wangteamsysu/wangteamsysu.github.io/blob/master/images/image-20230907190926383.png)
+![image-20230907190926383](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/image-20230907190926383.png)
 
 PI简介
 ======
