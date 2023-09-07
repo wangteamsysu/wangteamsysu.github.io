@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "课题组简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+​       中山大学附属口腔医院](https://www.zdkqyy.com/)（Hospital of Stomatology, Sun Yat-sen University）口腔颌面外科王成主任医师团队，长期从事口腔颌面头颈肿瘤临床、基础及应用基础研究。擅长口腔颌面部肿瘤、口腔癌、颌骨肿瘤、唾液腺肿瘤的诊治及显微外科和颌面部组织缺损的数字化修复重建。团队依托广东省口腔医学重点实验室（Guangdong Provincial Key Laboratory of Stomatology），主要研究方向为头颈肿瘤分子发病机制和精准诊疗。
 
-A data-driven personal website
+PI简介
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**教育经历**
+
+2000/9 - 2005/6，兰州大学，口腔医学院，学士
+
+2005/9 - 2008/6，中山大学，光华口腔医学院，硕士，导师：曾融生 教授
+
+2008/9 - 2011/6，中山大学，光华口腔医学院，博士，导师：黄洪章 教授
+
+**工作经历**
+
+2010/05 – 2011/03，University of Illinois at Chicago, Center of Molecular Biology for Oral Disease, Dental School, Visiting Scholar, 导师：Xiaofeng (Charles) Zhou
+
+2011/07 - 2013/12，中山大学，光华口腔医学院.附属口腔医院，讲师、主治医师
+
+2013/12 – 2020.12，中山大学，光华口腔医学院.附属口腔医院，副教授、副主任医师
+
+2017/04-2019/01, University of California, Los Angeles, Department of Oral Biology, Dental School, Visiting Scholar, 导师：王存玉 院士
+
+2020/12-至今，中山大学，光华口腔医学院·附属口腔医院，主任医师
+
+**人才称号**
+
+国家万人计划青年拔尖人才（2022）
+
+广东省特支计划百千万工程青年拔尖人才（2016）
+
+广州市珠江科技新星（2014）
+
+广东省高等学校“千百十人才培养工程”第八批校级培养对象（2014）
 
 Getting started
 ======
