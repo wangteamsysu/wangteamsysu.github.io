@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  Team Building:
+  Team:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Team Building
+  # _Team
   - scope:
       path: ""
-      type: Team Building
+      type: Team
     values:
       layout: single
       author_profile: true
