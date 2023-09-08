@@ -1,11 +1,9 @@
-```html
+---
 layout: archive
 title: "Team Building"
 permalink: /Team/
 author_profile: true
-```
-
-
+---
 
 ## 2022年毕业典礼
 
