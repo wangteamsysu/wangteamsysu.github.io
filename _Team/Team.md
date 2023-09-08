@@ -1,3 +1,12 @@
+```html
+layout: archive
+title: "Team Building"
+permalink: /Team/
+author_profile: true
+```
+
+
+
 ## 2022年毕业典礼
 
 <img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/ff8b13feaf72c584180ffde3d45a5a1.jpg" alt="ff8b13feaf72c584180ffde3d45a5a1" style="zoom: 25%;" />
