@@ -1,10 +1,3 @@
----
-title: "团队活动"
-collection: Team Building
-type: "Workshop"
-permalink: /
----
-
 ## 2022年毕业典礼
 
 <img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/ff8b13feaf72c584180ffde3d45a5a1.jpg" alt="ff8b13feaf72c584180ffde3d45a5a1" style="zoom: 25%;" />
