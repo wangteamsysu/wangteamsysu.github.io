@@ -80,7 +80,9 @@ PI简介
 
 ## 博士后
 
+蔡鸿仕
 
+<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E8%94%A1%E9%B8%BF%E4%BB%95-modified.png" alt="蔡鸿仕-modified" style="zoom:25%;" />
 
 ## 博士生
 
@@ -88,9 +90,9 @@ PI简介
 
 ## 硕士生
 
-韵博锴<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/image-20230907195326032.png" alt="image-20230907195326032" style="zoom:25%;" />
+韵博锴
 
-
+<img src="C:\Users\yunsy\Desktop\团队主页\团队照片\韵博锴-modified.png" alt="韵博锴-modified" style="zoom: 25%;" />
 
 学术论文
 ======
