@@ -127,3 +127,34 @@ PI简介
 学术论文
 ======
 更多论文信息请点击[Publication](http://wangteamsysu.cn/publications/)查看。
+
+
+
+# 专著与共识
+
+## 参与编写专著
+
+副主编 全国卫生专业技术资格考试丛书《口腔颌面外科学精选模拟习题集》
+
+参编 《穿支皮瓣：口腔颌面与头颈部的应用》 
+
+参编 《放射性颌骨坏死临床诊断与治疗》
+
+<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%971.jpg" alt="专著1" style="zoom:25%;" /><img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%973.jpg" alt="专著3" style="zoom:25%;" /><img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%972.jpg" alt="专著2" style="zoom:25%;" />
+
+## 参与编写共识
+
+《舌黏膜鳞状细胞癌外科诊疗的专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi1)
+
+《下颌骨放射性骨坏死临床诊疗专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi2)
+
+
+
+
+
+
+
+
+
+
+
