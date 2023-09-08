@@ -2,15 +2,8 @@
 title: "团队活动"
 collection: Team Building
 type: "Workshop"
-permalink: /Team/2015-spring-teaching-2
+permalink: /
 ---
-
-
-======
-
-```bash
-permalink: /Team/2015-spring-teaching-2
-```
 
 ## 2022年毕业典礼
 
