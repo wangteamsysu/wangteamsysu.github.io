@@ -10,12 +10,14 @@ redirect_from:
 
 ​       ![image-20230907190926383](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/image-20230907190926383.png)
 
-​       [中山大学附属口腔医院](https://www.zdkqyy.com/)（Hospital of Stomatology, Sun Yat-sen University）口腔颌面外科王成主任医师团队，长期从事口腔颌面头颈肿瘤临床、基础及应用基础研究。擅长口腔颌面部肿瘤、口腔癌、颌骨肿瘤、唾液腺肿瘤的诊治及显微外科和颌面部组织缺损的数字化修复重建。团队依托广东省口腔医学重点实验室（Guangdong Provincial Key Laboratory of Stomatology），主要研究方向为头颈肿瘤分子发病机制和精准诊疗。
+​       [中山大学附属口腔医院](https://www.zdkqyy.com/)（Hospital of Stomatology, Sun Yat-sen University）口腔颌面外科王成主任医师及其团队，长期从事口腔颌面头颈肿瘤临床、基础及应用基础研究。擅长口腔颌面部肿瘤、口腔癌、颌骨肿瘤、唾液腺肿瘤的诊治及显微外科和颌面部组织缺损的数字化修复重建。团队依托广东省口腔医学重点实验室（Guangdong Provincial Key Laboratory of Stomatology），主要研究方向为头颈肿瘤分子发病机制和精准诊疗。
 
 
 
 PI简介
 ======
+
+​       [王成](https://www.zdkqyy.com/node/1554)，医学博士，主任医师，博士研究生导师。美国加州大学洛杉矶分校和伊利诺伊大学芝加哥分校访问学者。主持国家自然科学基金4项，国家重点研发计划精准医学子课题1项，省部级及其它科研项目5项，以第一或通讯作者发表SCI论文31篇。副主编全国卫生专业技术资格考试丛书《口腔颌面外科学精选模拟习题集》、参编《穿支皮瓣：口腔颌面与头颈部的应用》和《放射性颌骨坏死临床诊断与治疗》等专著；参与编写全国《舌黏膜鳞状细胞癌外科诊疗的专家共识》和《下颌骨放射性骨坏死临床诊疗专家共识》。入选广州市珠江科技新星、广东特支计划百千万工程青年拔尖人才和国家高层次人才特殊支持计划青年拔尖人才，获中华口腔医学会口腔颌面外科专业委员会邱蔚六口腔颌面外科发展基金希望奖。
 
 ## **教育经历**
 
@@ -47,9 +49,35 @@ PI简介
 
 广东省高等学校“千百十人才培养工程”第八批校级培养对象（2014）
 
-## **学术兼职**
+## **学术任职**
 
+中华口腔医学会口腔颌面外科专业委员会	委员
 
+中华口腔医学会口腔颌面头颈肿瘤专业委员会	委员
+
+中华口腔医学会口腔生物医学专业委员会	委员
+
+中国抗癌协会肿瘤微环境专业委员会	青年委员
+
+中国抗癌协会口腔颌面头颈肿瘤整合医学青年委员会 副主任委员
+
+广东省口腔医学会口腔颌面外科专业委员会	常委
+
+广东省抗癌协会肿瘤整形专业委员会	常委
+
+## **获奖情况**
+
+1. 2016年第二届邱蔚六口腔颌面外科发展基金希望奖二等奖
+2. 第九届中山大学临床教师教学技能大赛三等奖
+
+3. 中山大学2012年光华口腔医学院青年教师授课比赛普通话组一等奖
+4. 中山大学2012年医科本科教学中青年教师普通话授课大赛暨青年教师全英授课大赛普通话组三等奖
+5. 中山大学2013年医科本科教学中青年教师普通话授课大赛暨青年教师全英授课大赛普通话组二等奖
+6. 中山大学2013年青年教师授课大赛优秀奖
+7. 2011年中华口腔医学会口腔医学益达奖学金二等奖
+8. 2011年第四届口腔颌面头颈肿瘤基础研究与干细胞学术会议优秀研究生论坛二等奖
+9. 2013年第15次全国口腔医学学术会议口腔基础研究专场论坛优秀论文奖
+10. 2013年广东省口腔颌面外科学术年会壁报展示二等奖
 
 科研项目
 ======
@@ -78,6 +106,8 @@ PI简介
 课题组成员
 ======
 
+![团队洗手服](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E5%9B%A2%E9%98%9F%E6%B4%97%E6%89%8B%E6%9C%8D.jpg)
+
 ## 博士后
 
 蔡鸿仕
@@ -90,23 +120,10 @@ PI简介
 
 ## 硕士生
 
-韵博锴
+韵博锴![韵博锴-modified](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E9%9F%B5%E5%8D%9A%E9%94%B4-modified.png)
 
-<img src="C:\Users\yunsy\Desktop\团队主页\团队照片\韵博锴-modified.png" alt="韵博锴-modified" style="zoom: 25%;" />
+
 
 学术论文
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-
 更多论文信息请点击[Publication](http://wangteamsysu.cn/publications/)查看。
