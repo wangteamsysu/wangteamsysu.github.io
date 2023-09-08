@@ -140,13 +140,13 @@ PI简介
 
 参编 《放射性颌骨坏死临床诊断与治疗》
 
-<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%971.jpg" alt="专著1" style="zoom:25%;" /><img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%973.jpg" alt="专著3" style="zoom:25%;" /><img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%972.jpg" alt="专著2" style="zoom:25%;" />
+<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%93%E8%91%97%E7%BC%A9%E5%B0%8F.png" alt="专著缩小" style="zoom:33%;" />
 
 ## 参与编写共识
 
-《舌黏膜鳞状细胞癌外科诊疗的专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi1)
+《舌黏膜鳞状细胞癌外科诊疗的专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi1.pdf)
 
-《下颌骨放射性骨坏死临床诊疗专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi2)
+《下颌骨放射性骨坏死临床诊疗专家共识》 [Download here](http://wangteamsysu.github.io/files/gongshi2.pdf)
 
 
 
