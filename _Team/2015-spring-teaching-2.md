@@ -1,6 +1,6 @@
 ---
 title: "毕业照片"
-collection: Team
+collection: Team Building
 type: "Workshop"
 permalink: /Team/2015-spring-teaching-2
 
