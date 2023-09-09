@@ -106,26 +106,27 @@ PI简介
 课题组成员
 ======
 
+课题组现有博士后5人，在读博士生1人，在读硕士生7人。
+
 ![团队洗手服](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E5%9B%A2%E9%98%9F%E6%B4%97%E6%89%8B%E6%9C%8D.jpg)
 
 ## 博士后
 
-蔡鸿仕
-
-<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E8%94%A1%E9%B8%BF%E4%BB%95-modified.png" alt="蔡鸿仕-modified" style="zoom:25%;" />
+![all-博后](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%90%8E.png)
 
 ## 博士生
 
-
+![all-博士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%A3%AB.png)
 
 ## 硕士生
 
-韵博锴![韵博锴-modified](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E9%9F%B5%E5%8D%9A%E9%94%B4-modified.png)
-
-
+![all-硕士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E7%A1%95%E5%A3%AB.png)
 
 学术论文
 ======
+
+
+
 更多论文信息请点击[Publication](http://wangteamsysu.cn/publications/)查看。
 
 
