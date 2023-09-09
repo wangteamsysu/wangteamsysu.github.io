@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Team Building"
+title: "Team Photos"
 permalink: /Team/
 author_profile: true
 ---
+
+**团队相册**
 
 ## 2022年毕业典礼
 
@@ -22,6 +24,14 @@ author_profile: true
 ![团队会议](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E5%9B%A2%E9%98%9F%E4%BC%9A%E8%AE%AE.jpg)
 
 ![会议](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%BC%9A%E8%AE%AE.jpg)
+
+
+
+## 临床团队
+
+![临床工作](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%B4%E5%BA%8A%E5%B7%A5%E4%BD%9C.jpg)
+
+
 
 ## 临床团队聚餐
 
