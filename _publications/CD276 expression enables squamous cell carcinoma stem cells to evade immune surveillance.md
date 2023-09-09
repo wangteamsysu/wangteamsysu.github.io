@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publication"
-permalink: /Publication/
+permalink: /publications/
 author_profile: true
 ---
 **#**Co-first author *Co-corresponding author
