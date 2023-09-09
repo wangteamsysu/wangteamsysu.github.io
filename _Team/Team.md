@@ -5,6 +5,26 @@ permalink: /Team/
 author_profile: true
 ---
 
+## 2021年毕业典礼
+
+![2021-06-28 120517](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2021-06-28%20120517.jpg)
+
+![2021-09-12 213835](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2021-09-12%20213835.jpg)
+
+
+
+## 2021年广东学术年会·广州南沙
+
+![2021-10-09 193100](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2021-10-09%20193100.jpg)
+
+
+
+## 2022年毕业答辩
+
+![1884f057877fb91258ad68b224471fe](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/1884f057877fb91258ad68b224471fe.jpg)
+
+
+
 ## 2022年毕业典礼
 
 <img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/ff8b13feaf72c584180ffde3d45a5a1.jpg" alt="ff8b13feaf72c584180ffde3d45a5a1" style="zoom: 25%;" />
@@ -17,7 +37,7 @@ author_profile: true
 
 
 
-## 2022年学术年会·福州
+## 2022年全国学术年会·福州
 
 ![团队会议](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E5%9B%A2%E9%98%9F%E4%BC%9A%E8%AE%AE.jpg)
 
@@ -25,21 +45,27 @@ author_profile: true
 
 
 
-## 临床团队
+## 临床团队不断完善
+
+王文瑾医生汇报患者情况
+
+![8a1f6722e5bf21629e25e0c769bd46c](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/8a1f6722e5bf21629e25e0c769bd46c.jpg)
+
+手术进行时
 
 ![临床工作](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%B4%E5%BA%8A%E5%B7%A5%E4%BD%9C.jpg)
-
-
-
-## 临床团队聚餐
-
-<img src="https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E5%9B%A2%E9%98%9F%20(2).jpg" alt="团队 (2)" style="zoom:50%;" />
 
 
 
 ## 2023年毕业答辩
 
 ![毕业答辩](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E6%AF%95%E4%B8%9A%E7%AD%94%E8%BE%A9.jpg)
+
+
+
+## 恭喜2023届毕业生！
+
+![7ffc9f7d357cae0af196eaae8a60f90](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/7ffc9f7d357cae0af196eaae8a60f90.jpg)
 
 
 
