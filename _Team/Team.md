@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Team Photos"
+title: "团队相册"
 permalink: /Team/
 author_profile: true
 ---
-
-**团队相册**
 
 ## 2022年毕业典礼
 
