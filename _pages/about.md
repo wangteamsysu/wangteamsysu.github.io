@@ -122,7 +122,7 @@ PI简介
 
 ## 博士后
 
-![all-博后](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%90%8E.png)
+![all-博后2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%90%8E2.png)
 
 ## 博士生
 
