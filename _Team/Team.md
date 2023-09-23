@@ -51,11 +51,13 @@ author_profile: true
 
 ![8a1f6722e5bf21629e25e0c769bd46c](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/8a1f6722e5bf21629e25e0c769bd46c.jpg)
 
-手术进行时
+手术进行中
 
 ![临床工作](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E4%B8%B4%E5%BA%8A%E5%B7%A5%E4%BD%9C.jpg)
 
+欧阳声骑医生病例展示
 
+![欧阳](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/%E6%AC%A7%E9%98%B3.jpg)
 
 ## 2023年毕业答辩
 
