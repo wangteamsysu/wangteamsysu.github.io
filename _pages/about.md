@@ -130,7 +130,7 @@ PI简介
 
 ## 硕士生
 
-![all-硕士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E7%A1%95%E5%A3%AB.png)
+![all_3_硕士2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all_3_%E7%A1%95%E5%A3%AB2.png)
 
 学术论文
 ======
