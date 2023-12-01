@@ -130,7 +130,7 @@ PI简介
 
 ## 硕士生
 
-![all_3_硕士3](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all_3_%E7%A1%95%E5%A3%AB3.png)
+![shuoshi3](C:\Users\yunsy\Desktop\主页\团队照片\modified\shuoshi3.png)
 
 学术论文
 ======
