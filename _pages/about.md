@@ -130,12 +130,14 @@ PI简介
 
 ## 硕士生
 
-![all_3_硕士2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all_3_%E7%A1%95%E5%A3%AB2.png)
+![all_3_硕士3](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all_3_%E7%A1%95%E5%A3%AB3.png)
 
 学术论文
 ======
 
 **Wang C**, Li Y, Jia L, Kim JK, Li J, Deng P, Zhang W, Krebsbach PH, Wang CY\*. CD276 expression enables squamous cell carcinoma stem cells to evade immune surveillance. Cell Stem Cell. 2021 Sep 2;28(9):1597-1613.e7. doi: 10.1016/j.stem.2021.04.011.	IF 25.269   [Download here](http://wangteamsysu.github.io/files/CD276 expression enables squamous cell carcinoma stem cells to evade immune surveillance.pdf)
+
+Wang, W., Yun, B., Hoyle, R. G., Ma, Z., Zaman, S. U., Xiong, G., Yi, C., Xie, N., Zhang, M., Liu, X., Bandyopadhyay, D., Li, J., & **Wang, C***. CYTOR Facilitates Formation of FOSL1 Phase Separation and Super Enhancers to Drive Metastasis of Tumor Budding Cells in Head and Neck Squamous Cell Carcinoma. *Adv Sci (Weinh)*. Published online November 30, 2023. doi:10.1002/advs.202305002  IF  15.1 [Download here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202305002)
 
 Xu X, Xie J, Ling R, Ouyang S, Xiong G, Lu Y, Yun B, Zhang M, Wang W, Liu X, Chen D\*, **Wang C***. Single-cell transcriptomic analysis uncovers the origin and intratumoral heterogeneity of parotid pleomorphic adenoma. Int J Oral Sci. 2023 Sep 7;15(1):38. doi: 10.1038/s41368-023-00243-2.	IF 14.9   [Download here](http://wangteamsysu.github.io/files/Single-cell transcriptomic analysis uncovers the origin and intratumoral heterogeneity of pa.pdf)
 
@@ -143,7 +145,7 @@ Zhang M, Wang G, Ma Z, Xiong G, Wang W, Huang Z, Wan Y, Xu X, Hoyle RG, Yi C, Ho
 
 Zhang M, Hoyle RG, Ma Z, Sun B, Cai W, Cai H, Xie N, Zhang Y, Hou J, Liu X, Chen D, Kellogg GE, Harada H, Sun Y, **Wang C***, Li J\*. FOSL1 promotes metastasis of head and neck squamous cell carcinoma through super-enhancer-driven transcription program. Mol Ther. 2021 Aug 4;29(8):2583-2600. doi: 10.1016/j.ymthe.2021.03.024.	IF 12.91   [Download here](http://wangteamsysu.github.io/files/FOSL1 promotes metastasis of head and neck squamous cell carcinoma through super-enhancer-driven transcription program.pdf)
 
-Zhang X, Yi C, Zhang L, Zhu X, He Y, Lu H, Li Y, Tang Y, Zhao W, Chen G, Wang C* Huang S\*, Ouyang G, Yu D\*. Size-optimized nuclear-targeting phototherapy enhances the type I interferon response for "cold" tumor immunotherapy. Acta Biomater. 2023 Mar 15;159:338-352. doi: 10.1016/j.actbio.2023.01.023.	IF 9.7   [Download here](http://wangteamsysu.github.io/files/Size-optimized nuclear-targeting phototherapy enhances the type I interferon response for cold tumor immunotherapy.pdf)
+Zhang X, Yi C, Zhang L, Zhu X, He Y, Lu H, Li Y, Tang Y, Zhao W, Chen G, **Wang C*** Huang S\*, Ouyang G, Yu D\*. Size-optimized nuclear-targeting phototherapy enhances the type I interferon response for "cold" tumor immunotherapy. Acta Biomater. 2023 Mar 15;159:338-352. doi: 10.1016/j.actbio.2023.01.023.	IF 9.7   [Download here](http://wangteamsysu.github.io/files/Size-optimized nuclear-targeting phototherapy enhances the type I interferon response for cold tumor immunotherapy.pdf)
 
 Zhuang Z, Yu P, Xie N, Wu Y, Liu  H, Zhang M, Tao Y, Wang W, Yin H, Zou B, Hou J, Liu X, Li J\*, Huang H\*, **Wang C\***. MicroRNA-204-5p is a tumor  suppressor and potential therapeutic target in head and neck squamous cell  carcinoma. Theranostics 2020; 10(3):1433-1453. doi:10.7150/thno.38507      IF 11.55   [Download here](http://wangteamsysu.github.io/files/MicroRNA-204-5p is a tumor suppressor and potential therapeutic target in head and neck squamous cell carcinoma.pdf)
 
