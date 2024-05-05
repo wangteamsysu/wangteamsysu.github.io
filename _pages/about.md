@@ -130,7 +130,7 @@ PI简介
 
 ## 硕士生
 
-![硕士](https://github.com/wangteamsysu/wangteamsysu.github.io/blob/master/images/shuoshi3.png?raw=true)
+![shuoshi3](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/shuoshi3.png)
 
 学术论文
 ======
