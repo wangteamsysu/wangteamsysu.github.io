@@ -122,15 +122,15 @@ PI简介
 
 ## 博士后
 
-![all-博后2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%90%8E2.png)
+![all-4 - 博后](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-4%20-%20%E5%8D%9A%E5%90%8E.png)
 
 ## 博士生
 
-![all-博士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-%E5%8D%9A%E5%A3%AB.png)
+![all-4 - 博士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-4%20-%20%E5%8D%9A%E5%A3%AB.png)
 
 ## 硕士生
 
-![shuoshi3](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/shuoshi3.png)
+![all-4 - 硕士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-4%20-%20%E7%A1%95%E5%A3%AB.png)
 
 学术论文
 ======

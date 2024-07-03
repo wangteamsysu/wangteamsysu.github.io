@@ -83,7 +83,11 @@ author_profile: true
 
 ![2023年中秋](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2023%E5%B9%B4%E4%B8%AD%E7%A7%8B.jpg)
 
+2024年毕业啦
 
+![2024年毕业](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2024%E5%B9%B4%E6%AF%95%E4%B8%9A.jpg)
 
+走一个虎虎生威
 
+![2024-2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2024-2.jpg)
 
