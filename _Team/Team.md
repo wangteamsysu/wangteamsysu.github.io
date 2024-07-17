@@ -83,7 +83,7 @@ author_profile: true
 
 ![2023年中秋](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2023%E5%B9%B4%E4%B8%AD%E7%A7%8B.jpg)
 
-2024年毕业啦
+## 2024年毕业啦
 
 ![2024年毕业](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2024%E5%B9%B4%E6%AF%95%E4%B8%9A.jpg)
 
@@ -91,3 +91,8 @@ author_profile: true
 
 ![2024-2](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/2024-2.jpg)
 
+## 2024·内蒙古·呼和浩特年会
+
+![667627b19ae064d5fda550c4f28fc82](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/667627b19ae064d5fda550c4f28fc82.jpg)
+
+![b42b89604aeef0b8a230bbe5873409b](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/b42b89604aeef0b8a230bbe5873409b.jpg)
