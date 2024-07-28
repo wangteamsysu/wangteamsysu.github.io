@@ -126,7 +126,7 @@ PI简介
 
 ## 博士生
 
-![all-4 - 博士](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all-4%20-%20%E5%8D%9A%E5%A3%AB.png)
+![all_5](https://typoraybk.oss-cn-guangzhou.aliyuncs.com/all_5.png)
 
 ## 硕士生
 
